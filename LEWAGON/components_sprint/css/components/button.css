@@ -34,3 +34,21 @@
 	opacity: 0.8;
 	text-decoration:none;
 }
+
+.btn-twitter{
+	color:#e0245e;
+	border-radius: 40px;
+	padding: 10px 15px;
+	font-weight: bolder;
+	background-color:white; 
+}
+
+.btn-twitter:hover{
+	color:#e0245e;
+	border-radius: 40px;
+	border:1px solid;
+	padding: 10px 15px;
+	font-weight: bolder;
+	background-color:white; 
+	text-decoration: none;
+}
